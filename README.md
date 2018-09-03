@@ -1,2 +1,2 @@
 # Cpp-game-development
-A bunch of tutorials of cpp game development found in internet
+A bunch of cpp game development tutorials found in internet
